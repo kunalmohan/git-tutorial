@@ -6,6 +6,7 @@ import calc
 OPS = {
     "add": calc.add,
     "sub": calc.sub,
+    "mul": calc.mul,
 }
 
 
